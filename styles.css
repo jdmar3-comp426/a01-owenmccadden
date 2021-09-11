@@ -80,6 +80,7 @@ main ul li {
 
 .video_container iframe {
     padding-bottom: 5vh;
+    border: None;
 }
 
 .home_image {
